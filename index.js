@@ -1,3 +1,3 @@
 exports.default = function() {
-  onsoel.log('hello world')
+  console.log('hello world')
 }
