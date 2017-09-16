@@ -1,6 +1,6 @@
 {
   "name": "ui-checkbox",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "format html checkbox with react",
   "main": "index.js",
   "repository": "git@github.com:jishiniao/checkbox.git",
